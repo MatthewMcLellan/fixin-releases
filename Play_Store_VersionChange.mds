@@ -1,0 +1,139 @@
+# Store listing copy — fixin for Android (Google Play)
+
+---
+
+Current features: on-device photo diagnosis, 2,262 repair
+guides, voice/typed problem descriptions, history, projects, worksheets, PDF
+export, ML chat assistant, two-factor sign-in, cloud backup **and restore**.
+
+---
+
+## Short description
+
+```
+Diagnose car, home and boat problems from a photo — and get the repair guide.
+```
+
+---
+
+## Full description
+
+```
+fixin tells you what's wrong — and how to fix it.
+
+Point your camera at a problem on your car, your home or your boat and fixin
+identifies it in seconds. The analysis runs on your phone, so it works in a
+driveway, a basement or a marina with no signal at all.
+
+WHAT YOU GET WITH EVERY DIAGNOSIS
+
+fixin doesn't stop at naming the fault. Each result comes with a repair guide
+written for that specific problem: how to confirm it really is the issue, the
+tools and parts you'll need, step-by-step instructions, safety warnings, a
+realistic time estimate, and a clear line on when to stop and call a
+professional.
+
+There are over 2,200 of these guides. Not one per broad category — one per
+specific fault. A boat autopilot that won't hold course gets different steps
+than one with a leaking hydraulic ram.
+
+DESCRIBE IT IN YOUR OWN WORDS
+
+Photos don't capture everything. Add a spoken or typed note — "it clicks but
+won't turn over" — and it travels with the diagnosis into your repair guide and
+into the ML assistant, so the advice accounts for what you actually noticed.
+
+KEEP TRACK OF THE WORK
+
+Every diagnosis is saved to your history with its photo, confidence and
+severity. Group related jobs into a Repair Project — "spring tune-up", "boat
+haul-out" — and work through each repair as a step-by-step checklist you can
+tick off, add notes to, and export as a PDF.
+
+ASK FOLLOW-UP QUESTIONS
+
+The built-in ML assistant answers questions about your specific diagnosis, so
+you can ask "do I need to drain the coolant first?" without starting over.
+
+YOUR WORK IS BACKED UP
+
+Back your diagnoses up to your account and restore them on a new phone or after
+a reinstall — complete with the diagnosis, severity and repair instructions, not
+just the photo. Restoring never overwrites anything already on your device.
+
+WHAT IT COVERS
+
+Cars — engine, transmission, brakes, electrical, cooling, fuel, suspension,
+steering, tyres and wheels, exhaust and emissions, HVAC, body and interior,
+driver-assist systems and more.
+
+Homes — plumbing, electrical, HVAC, roofing, foundation and structure, appliances,
+water heaters, drainage, pests, pools and spas, septic and well systems, fire and
+life safety, and more.
+
+Boats — engines and outboards, sterndrives, fuel, bilge, hull, electrical,
+shore power, plumbing, refrigeration, steering, rigging, corrosion, trailers,
+trim tabs and more.
+
+A free account includes a set number of diagnoses per day and per month.
+Premiere and The One unlock more diagnoses, more detailed fault identification
+and the full repair-guide library.
+
+fixin is built by AM Solutions in Seattle.
+
+fixin gives you the most likely cause and general repair guidance. It is not a
+substitute for a qualified mechanic, electrician, plumber or marine technician.
+Always follow the safety warnings in the guide, and stop and call a professional
+for anything involving gas, structural damage, or work you aren't confident
+doing safely.
+```
+
+---
+
+## "What's new" — first Play release
+
+```
+Welcome to fixin.
+
+Point your camera at a problem on your car, home or boat and get a likely
+diagnosis in seconds — analysed on your phone, so it works without a signal.
+
+Every diagnosis comes with a repair guide for that exact fault: what to check,
+the tools you need, safety warnings and a time estimate. Over 2,200 guides.
+
+Save to history, group repairs into projects, and work through them as a
+step-by-step checklist.
+```
+
+---
+
+## "What's new" — 1.4.1
+
+```
+More accurate severity ratings.
+
+Serious problems — fuel, steering, hull, fire safety, structural — were being
+rated "Low", which also held back their repair guides. Severity is now judged
+properly across every category, so the guidance you get matches how urgent the
+problem really is.
+
+Confidence figures are calibrated too, and results the engine isn't sure about
+are now flagged instead of shown as a single confident answer.
+```
+
+---
+
+## "What's new" — 1.4.0
+
+```
+A new diagnosis engine, and guides for your exact problem.
+
+Sapphire 4.0 retrains the on-device models and adds a Vision Transformer for
+sharper calls across cars, boats and homes. Boats gain sterndrive, trailer,
+propane, refrigeration and trim-tab coverage.
+
+The guide library grew to over 2,200 — one per specific fault, not per category.
+
+Also: two-factor sign-in, and restore your diagnoses from a backup on a new
+phone.
+```
