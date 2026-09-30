@@ -86,4 +86,4 @@ fixin is free to download and works without an account. The free plan identifies
 
 <sub>fixin suggests the most likely cause and general repair guidance. It isn't a substitute for a qualified mechanic, electrician, plumber or marine technician. Follow the safety warnings in each guide, and call a professional for gas, electrical or structural work you aren't confident doing safely.</sub>
 
-<sub>© 2026 AM Solutions, Seattle, WA. Google Play and the Google Play logo are trademarks of Google LLC.</sub>
+<sub>© 2026 AM Solutions, Seattle, WA. All rights reserved; fixin is proprietary software, see <a href="LICENSE.txt">LICENSE</a>. Google Play and the Google Play logo are trademarks of Google LLC.</sub>
